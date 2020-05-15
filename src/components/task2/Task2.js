@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import First from './First';
+
+
 class Task2 extends Component {
     constructor(props) {
         super(props);
@@ -25,28 +28,5 @@ class Task2 extends Component {
             </div>);
     }
 }
-const First = (props) => {
-    return (<div>
-        <Second
-            {...props}
-
-        />
-
-    </div>);
-}
-
-const Second = (props) => {
-    return (
-        <div>
-            <button onClick={props.getRandom}>Click me</button>
-            <p></p>
-
-            <div>Math random is : {props.random}</div>
-            <br />
-            <div>Math random multiplied : {props.randomMult}</div>
-        </div>
-    );
-}
-
 
 export default Task2;

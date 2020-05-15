@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import FunctionalComponent from '../FunctionalComponent/FunctionalComponent';
 
+
 class ClassComponent extends Component {
     state = {
         text: ""
