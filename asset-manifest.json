@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JSX-Lesson12-13-State-Props/static/css/main.171763ab.chunk.css",
+    "main.js": "/JSX-Lesson12-13-State-Props/static/js/main.f22ea7a5.chunk.js",
+    "main.js.map": "/JSX-Lesson12-13-State-Props/static/js/main.f22ea7a5.chunk.js.map",
+    "runtime-main.js": "/JSX-Lesson12-13-State-Props/static/js/runtime-main.a2c1ce76.js",
+    "runtime-main.js.map": "/JSX-Lesson12-13-State-Props/static/js/runtime-main.a2c1ce76.js.map",
+    "static/js/2.195aa298.chunk.js": "/JSX-Lesson12-13-State-Props/static/js/2.195aa298.chunk.js",
+    "static/js/2.195aa298.chunk.js.map": "/JSX-Lesson12-13-State-Props/static/js/2.195aa298.chunk.js.map",
+    "index.html": "/JSX-Lesson12-13-State-Props/index.html",
+    "precache-manifest.2a0f48834579e2684f527c9dd45a250f.js": "/JSX-Lesson12-13-State-Props/precache-manifest.2a0f48834579e2684f527c9dd45a250f.js",
+    "service-worker.js": "/JSX-Lesson12-13-State-Props/service-worker.js",
+    "static/css/main.171763ab.chunk.css.map": "/JSX-Lesson12-13-State-Props/static/css/main.171763ab.chunk.css.map",
+    "static/js/2.195aa298.chunk.js.LICENSE.txt": "/JSX-Lesson12-13-State-Props/static/js/2.195aa298.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2c1ce76.js",
+    "static/js/2.195aa298.chunk.js",
+    "static/css/main.171763ab.chunk.css",
+    "static/js/main.f22ea7a5.chunk.js"
+  ]
+}
